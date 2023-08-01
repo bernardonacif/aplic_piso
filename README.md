@@ -1,5 +1,11 @@
 # aplic_piso
 
+- Leia este arquivo primeiro em Português (Brasil) [aqui](#aplicativo-para-cálculo-de-material-para-aplicação-de-pisos-2017).
+
+- Read this file first in English [here](#app-for-calculating-materials-for-floor-application-2017).
+
+---
+
 # Aplicativo para Cálculo de Material para Aplicação de Pisos (2017)
 
 ## Descrição
