@@ -1,10 +1,10 @@
 # aplic_piso
 
-# Aplicativo para Cálculo de Material para Aplicação de Pisos
+# Aplicativo para Cálculo de Material para Aplicação de Pisos (2017)
 
 ## Descrição
 
-Este é um aplicativo desenvolvido durante o curso de Engenharia na faculdade. O objetivo principal do aplicativo é fornecer uma solução para calcular a quantidade de material necessário para a aplicação de pisos em uma determinada área. O aplicativo foi desenvolvido inicialmente em Portugol, depois reescrito em Java e, posteriormente, adaptado para a plataforma Android.
+Este é um aplicativo desenvolvido durante o curso de Engenharia na faculdade em 2017. O objetivo principal do aplicativo é fornecer uma solução para calcular a quantidade de material necessário para a aplicação de pisos em uma determinada área. O aplicativo foi desenvolvido inicialmente em Portugol, depois reescrito em Java e, posteriormente, adaptado para a plataforma Android.
 
 ## Funcionalidades
 
@@ -46,11 +46,11 @@ Este aplicativo é distribuído sob a Licença MIT. Para mais detalhes, consulte
 
 ---
 
-# App for Calculating Materials for Floor Application
+# App for Calculating Materials for Floor Application (2017)
 
 ## Description
 
-This is an app developed during the Engineering course at the university. The main objective of the app is to provide a solution for calculating the amount of material required for applying floor tiles in a given area. The app was initially developed in Portugol, then rewritten in Java, and later adapted for the Android platform.
+This is an app developed during the Engineering course at the university in 2017. The main objective of the app is to provide a solution for calculating the amount of material required for applying floor tiles in a given area. The app was initially developed in Portugol, then rewritten in Java, and later adapted for the Android platform.
 
 ## Features
 
